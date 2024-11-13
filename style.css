@@ -1,0 +1,19 @@
+.main
+{
+    background-color: rgb(199, 58, 58);
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+.reema
+{
+    height: 50px;
+    width: 15x;
+    padding: 35px;
+    margin: 20px;
+    background-color: darkkhaki;
+
+}
