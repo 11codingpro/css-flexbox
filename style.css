@@ -1,19 +1,22 @@
 .main
 {
-    background-color: rgb(199, 58, 58);
-    display:flex;
+    background-color: rgb(229, 162, 162);
+    display:flexbox;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 30px;
 
 
 
 }
-.reema
+.one
 {
     height: 50px;
     width: 15x;
     padding: 35px;
     margin: 20px;
+    border: 1cm;
     background-color: darkkhaki;
 
 }
